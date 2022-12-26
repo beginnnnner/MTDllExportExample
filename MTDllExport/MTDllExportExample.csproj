@@ -47,13 +47,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="readme.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="MTDllExportExampleIndicator.mq4" />
     <None Include="MTDllExportExampleIndicator.mq5" />
     <None Include="MTDllExportExampleScript.mq4" />
     <None Include="MTDllExportExampleScript.mq5" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="DllExport">
